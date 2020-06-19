@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Mta_React_Web/static/css/main.e7ca69c0.chunk.css",
-    "main.js": "/Mta_React_Web/static/js/main.d7d6b637.chunk.js",
-    "main.js.map": "/Mta_React_Web/static/js/main.d7d6b637.chunk.js.map",
+    "main.js": "/Mta_React_Web/static/js/main.5e61382e.chunk.js",
+    "main.js.map": "/Mta_React_Web/static/js/main.5e61382e.chunk.js.map",
     "runtime-main.js": "/Mta_React_Web/static/js/runtime-main.8f39eccc.js",
     "runtime-main.js.map": "/Mta_React_Web/static/js/runtime-main.8f39eccc.js.map",
     "static/css/2.48e9bf46.chunk.css": "/Mta_React_Web/static/css/2.48e9bf46.chunk.css",
     "static/js/2.e572c24d.chunk.js": "/Mta_React_Web/static/js/2.e572c24d.chunk.js",
     "static/js/2.e572c24d.chunk.js.map": "/Mta_React_Web/static/js/2.e572c24d.chunk.js.map",
     "index.html": "/Mta_React_Web/index.html",
-    "precache-manifest.4251bceb2a8d3261599be423c1033730.js": "/Mta_React_Web/precache-manifest.4251bceb2a8d3261599be423c1033730.js",
+    "precache-manifest.81322bfc3298e823a8c16dcfe1e49801.js": "/Mta_React_Web/precache-manifest.81322bfc3298e823a8c16dcfe1e49801.js",
     "service-worker.js": "/Mta_React_Web/service-worker.js",
     "static/css/2.48e9bf46.chunk.css.map": "/Mta_React_Web/static/css/2.48e9bf46.chunk.css.map",
     "static/css/main.e7ca69c0.chunk.css.map": "/Mta_React_Web/static/css/main.e7ca69c0.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.48e9bf46.chunk.css",
     "static/js/2.e572c24d.chunk.js",
     "static/css/main.e7ca69c0.chunk.css",
-    "static/js/main.d7d6b637.chunk.js"
+    "static/js/main.5e61382e.chunk.js"
   ]
 }
