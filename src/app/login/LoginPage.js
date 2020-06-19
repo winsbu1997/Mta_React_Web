@@ -48,7 +48,7 @@ class LoginPage extends Component{
 
         return(
             <div className='LoginPage'>
-                <div className='HeaderLogin'>MTA Deep Inspector</div>
+                <div className='HeaderLogin'>Tang Duong</div>
                 <FormGroup>
                     <Label>Email</Label>
                     <Input type='email' placeholder='Email' value={email} onChange={this._handleChangeEmail}/>
